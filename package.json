@@ -1,0 +1,12 @@
+{
+  "name": "bc2024-5",
+  "version": "1.0.0",
+  "main": "lab5.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
